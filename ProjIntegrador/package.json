@@ -1,0 +1,16 @@
+{
+  "name": "projintegrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "site/electron/app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "izitoast": "^1.4.0",
+    "scrollreveal": "^4.0.9",
+    "socket.io": "^4.8.1"
+  }
+}
